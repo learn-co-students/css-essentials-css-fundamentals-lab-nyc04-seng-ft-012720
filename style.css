@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#main-header {
+  /* Your code here! */
+  margin: auto;
+}
+
+img{
+  margin: auto;
+}
+
+a:link, a:visited{
+  background: grey;
+}
+
+figcaption {
+  font-size: 22px;
+}
+
+#featured-property {
+  width: 800px;
+  margin: auto;
+}
+
+#details {
+  float: left;
+}
+
+div {
+  background: red;
+  margin: auto;
+  width: 25px
+}
