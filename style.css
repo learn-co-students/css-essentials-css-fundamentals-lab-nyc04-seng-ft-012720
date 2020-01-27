@@ -31,11 +31,11 @@ p {
 #details{
     border-top: 1px solid red;
     display: block;
+    
 
 }
 div {
     float: left;
-    text-align: center;
     background-color: red;
     width: 25%;
     
